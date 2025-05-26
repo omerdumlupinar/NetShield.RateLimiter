@@ -1,0 +1,6 @@
+@NetShield.RateLimiter.Example_HostAddress = http://localhost:5269
+
+GET {{NetShield.RateLimiter.Example_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
