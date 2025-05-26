@@ -12,8 +12,8 @@
 		<Company>GitHubKullaniciAdin</Company>
 		<Description>ASP.NET Core için gelişmiş ve esnek bir Rate Limiting Middleware kütüphanesi.</Description>
 		<PackageTags>rate-limiting;aspnetcore;middleware;throttling;netshield</PackageTags>
-		<RepositoryUrl>https://github.com/GitHubKullaniciAdin/NetShield.RateLimiter</RepositoryUrl>
-		<PackageProjectUrl>https://github.com/GitHubKullaniciAdin/NetShield.RateLimiter</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/omerdumlupinar/NetShield.RateLimiter</RepositoryUrl>
+		<PackageProjectUrl>https://github.com/omerdumlupinar/NetShield.RateLimiter</PackageProjectUrl>
 		<RepositoryType>git</RepositoryType>
 	</PropertyGroup>
 
